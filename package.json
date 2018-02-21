@@ -1,0 +1,22 @@
+{
+  "name": "csslint-test",
+  "version": "0.0.1",
+  "description": "\"Test de csslint & gulp\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isrart/csslint-gulp.git"
+  },
+  "keywords": [
+    "csslint"
+  ],
+  "author": "iramirez@atsistemas.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isrart/csslint-gulp/issues"
+  },
+  "homepage": "https://github.com/isrart/csslint-gulp#readme"
+}
